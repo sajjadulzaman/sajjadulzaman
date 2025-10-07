@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programmer GIF" width="400"/>
-  <h1 align="center">Hi 👋, I'm **Sajjaduz Zamman**</h1>
-  <h3 align="center">A passionate **Frontend Developer** from Bangladesh 🇧🇩</h3>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programmer GIF" width="400" />
+  <h1 align="center">Hey there! I'm  <bold> </bold>Sajjaduz Zamman</bold> 👋</h1>
+  <h3 align="center">A **Frontend Architect** & Passionate Developer from Bangladesh 🇧🇩</h3>
   
   <p align="center">
     <a href="https://komarev.com/ghpvc/?username=sajjadulzaman&label=Profile%20views&color=0e75b6&style=flat" target="_blank">
@@ -12,48 +12,67 @@
 
 ---
 
-### 🚀 About Me
+## 🚀 The Focus (Q3 2025)
 
-- 🌱 I’m currently focused on mastering **React.js** and its ecosystem.
-- 📧 How to reach me: **sajjadulzaman@gmail.com**
+I'm currently focused on transitioning from being a general frontend developer to a specialist in component-driven architecture.
 
-<br>
-
-### 🌐 Connect with Me
-
-| Platform | Link |
-| :--- | :--- |
-| **LinkedIn** | [sajjadulzaman](https://linkedin.com/in/sajjadulzaman) |
-| **Twitter** | [sajjadulzaman nirob](https://twitter.com/sajjadulzaman nirob) |
-| **Facebook** | [sajjadulzaman nirob](https://fb.com/sajjadulzaman nirob) |
-| **Instagram** | [sajjad\_ulzaman\_nirob](https://instagram.com/sajjad_ulzaman_nirob) |
+- **Primary Learning Path:** Deep diving into **React, Next.js, and TypeScript** for scalable modern web apps.
+- **Goal:** Building robust, high-performance, and accessible user interfaces.
+- **Reach Me:** The fastest way is via **sajjadulzaman@gmail.com**
 
 <br>
 
 ---
 
-### 🛠️ Languages and Tools
+## 💻 Tech Stack & Expertise
 
-| Category | Skills |
-| :--- | :--- |
-| **Frontend** | <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="30" height="30"/></a> <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="30" height="30"/></a> <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="30" height="30"/></a> <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="ReactNative" width="30" height="30"/></a> |
-| **Web Basics** | <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="30" height="30"/></a> <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="30" height="30"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/></a> <a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="30" height="30"/></a> <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="30" height="30"/></a> |
-| **Backend & Devops** | <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="30" height="30"/></a> <a href="https://nestjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="30" height="30"/></a> <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="30" height="30"/></a> <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30"/></a> <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/></a> <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="30" height="30"/></a> <a href="https://www.nginx.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="30" height="30"/></a> |
-| **Databases** | <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30"/></a> <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="30" height="30"/></a> <a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="30" height="30"/></a> |
-| **Other** | <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/></a> <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="30" height="30"/></a> <a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="30" height="30"/></a> <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="30" height="30"/></a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="30" height="30"/></a> |
+Instead of just icons, this section uses modern badges for a more vibrant, clickable, and structured look.
 
-<br>
+### Frontend & UI/UX
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
+
+### Backend & Cloud
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
+## 📈 My GitHub Activity
+
+I've updated the theme for the stat cards to be more modern, clear, and cohesive.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sajjadulzaman&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=true" alt="Sajjad's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajjadulzaman&theme=chartreuse-dark&hide_border=true" alt="Sajjad's GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sajjadulzaman&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Sajjad's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sajjadulzaman&show_icons=true&locale=en&theme=transparent&title_color=0e75b6&icon_color=0e75b6&text_color=333&hide_border=true&ring_color=0e75b6" alt="Sajjad's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajjadulzaman&theme=transparent&date_color=0e75b6&ruler_color=0e75b6&side_time_color=0e75b6&fire=0e75b6&ring=0e75b6&currstreak=0e75b6&hide_border=true" alt="Sajjad's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sajjadulzaman&show_icons=true&locale=en&layout=compact&theme=transparent&title_color=0e75b6&icon_color=0e75b6&text_color=333&hide_border=true" alt="Sajjad's Top Languages" />
   <br>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sajjadulzaman&theme=onestar" alt="Sajjad's GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=sajjadulzaman&theme=onedark" alt="Sajjad's GitHub Trophies" />
   </a>
 </div>
+
+---
+
+## 🔗 Find Me Online
+
+<p align="center">
+  <a href="https://linkedin.com/in/sajjadulzaman" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/sajjadulzaman nirob" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://fb.com/sajjadulzaman nirob" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+</p>
