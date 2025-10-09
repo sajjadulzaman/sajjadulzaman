@@ -8,7 +8,7 @@
 
 ## 🚀 About Me & Focus
 
-My focus is crafting **intuitive, high-performance web applications** that drive exceptional **user engagement** and **SEO performance**.
+I focus on building intuitive, high-performance web applications and continuously learning new technologies to deliver exceptional user experiences.
 
 - 🔭 <b>Current Focus:</b> Deep diving into <b>React.js</b> and its component architecture.
 - 🌱 <b>Learning Next:</b> Advanced <b>TypeScript</b> patterns and server-side rendering with <b>Next.js</b>.
@@ -26,8 +26,8 @@ A collection of the primary tools and technologies I work with.
 ### Frontend & UI/UX
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
@@ -54,7 +54,7 @@ A collection of the primary tools and technologies I work with.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sajjadulzaman&show_icons=true&locale=en&theme=transparent&title_color=0e75b6&icon_color=0e75b6&text_color=333&hide_border=true&ring_color=0e75b6" alt="Sajjad's GitHub Stats" />
-    <img src="**https://streak-stats.demolab.com/**?user=sajjadulzaman&theme=transparent&date_color=0e75b6&ruler_color=0e75b6&side_time_color=0e75b6&fire=0e75b6&ring=0e75b6&currstreak=0e75b6&hide_border=true" alt="Sajjad's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajjadulzaman&theme=transparent&date_color=0e75b6&ruler_color=0e75b6&side_time_color=0e75b6&fire=0e75b6&ring=0e75b6&currstreak=0e75b6&hide_border=true" alt="Sajjad's GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sajjadulzaman&show_icons=true&locale=en&layout=compact&theme=transparent&title_color=0e75b6&icon_color=0e75b6&text_color=333&hide_border=true" alt="Sajjad's Top Languages" />
   <br>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -78,4 +78,5 @@ A collection of the primary tools and technologies I work with.
 
 <div align="center">
   <b>Thanks for visiting!</b> 
-  <img src="https://kom
+  <img src="https://komarev.com/ghpvc/?username=sajjadulzaman&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div> 
