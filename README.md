@@ -55,11 +55,7 @@ A collection of the primary tools and technologies I work with.
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sajjadulzaman&show_icons=true&locale=en&theme=transparent&title_color=0e75b6&icon_color=0e75b6&text_color=333&hide_border=true&ring_color=0e75b6" alt="Sajjad's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajjadulzaman&theme=transparent&date_color=0e75b6&ruler_color=0e75b6&side_time_color=0e75b6&fire=0e75b6&ring=0e75b6&currstreak=0e75b6&hide_border=true" alt="Sajjad's GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sajjadulzaman&show_icons=true&locale=en&layout=compact&theme=transparent&title_color=0e75b6&icon_color=0e75b6&text_color=333&hide_border=true" alt="Sajjad's Top Languages" />
-  <br>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sajjadulzaman&theme=onedark&no-bg=true" alt="Sajjad's GitHub Trophies" />
-  </a>
+
 </div>
 
 <br>
