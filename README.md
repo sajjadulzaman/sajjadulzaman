@@ -65,5 +65,6 @@ A collection of the primary tools and technologies I work with.
 ---
 
 <div align="center">
-  <b>Thanks for visiting!</b>  <img src="https://komarev.com/ghpvc/?username=sajjadulzaman&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <b>Thanks for visiting!</b>
+
 </div>
